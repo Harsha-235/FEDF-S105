@@ -1,0 +1,7 @@
+class a
+{
+public static main void(Strings args[])
+{
+System.out.println(hii)
+}
+}
